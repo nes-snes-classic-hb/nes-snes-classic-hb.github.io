@@ -53,8 +53,8 @@ SNES roms have either the .smc extension or the .sfc extension.
 
 5. Wait for Hakchi to finish the installation.
 
-##### At this point, Hakchi should have installed the ROMs on your console.
-##### We will now check if the games are correctly installed.
+At this point, Hakchi should have installed the ROMs on your console.
+We will now check if the games are correctly installed.
 
 6. Make sure your console is on.
     If it is not, turn it on.
