@@ -1,10 +1,14 @@
 # nes-snes-classic-hb.github.io
 ##### A noob-proof guide to anyone who wants to install games on their NES/SNES classic!
+This guide will give you instructions on how to mod your NES/SNES classic!
+## Premission: Risks
+This guide will install a custom kernel, a modified version of the mini's original kernel.
+You should be fully sure when you install a custom kernel, since there is no turning back.
 
-The instrucions in this guide are the same for NES classic and SNES classic.
-### WARNING
 IF YOU DISCONNECT THE MICRO USB FROM YOUR CONSOLE WHILE HAKCHI IS INSTALLING THE CUSTOM KERNEL, YOU MAY PERMANENTLY BRICK YOUR CONSOLE.
 PROCEED CAREFULLY.
+
+###### The instrucions in this guide are the same for NES classic and SNES classic.
 
 ## 1. installing the custom kernel
 You will need Hakchi to install the custom kernel. Get it [here](https://github.com/teamshinkansen/hakchi2-ce/releases/).
