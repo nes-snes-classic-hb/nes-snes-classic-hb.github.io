@@ -59,3 +59,5 @@ SNES roms have either the .smc extension or the .sfc extension.
     If you can't find that item, check the checkbox on Hakchi on your PC, then go back to step 3.
 
 ###### Optional: Try opening all of the games you installed. If they run correctly, good.
+
+#### Congrats! your console now has custom games!
