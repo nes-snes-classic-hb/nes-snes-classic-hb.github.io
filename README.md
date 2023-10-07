@@ -1,2 +1,2 @@
 # nes-snes-classic-hb.github.io
-NES Classic and SNES Classic homebrew website
+Click [here](https://nes-snes-classic-hb.github.io) to go in the guide.
